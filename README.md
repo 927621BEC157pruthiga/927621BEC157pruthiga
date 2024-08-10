@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=927621bec157pruthiga&label=Profile%20views&color=0e75b6&style=flat" alt="927621bec157pruthiga" /> </p>
 
-- 🌱 I’m currently learning **Sharpening my knowledge in FCP (Fortinet Certified Professional)**
+- 🌱 I’m currently **Sharpening my knowledge in FCP (Fortinet Certified Professional)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/927621BEC157pruthiga](https://github.com/927621BEC157pruthiga)
 
